@@ -1,0 +1,21 @@
+fastapi
+uvicorn
+streamlit
+scikit-learn
+pandas
+sqlalchemy
+plotly
+joblib
+
+# ---------------------- Run & Stop Commands ----------------------
+# Quick commands to run and stop the application (Windows PowerShell)
+# 1) Activate the virtual environment (optional but recommended):
+#    .\venv_new\Scripts\Activate.ps1
+# 2) Start the app (starts both backend and frontend):
+#    python run_app.py
+#    - Backend (FastAPI) will listen on http://localhost:8001
+#    - Frontend (Streamlit) will listen on http://localhost:8502
+# 3) Stop the app: press Ctrl+C in the terminal where it is running.
+#    Alternatively, to force-stop Python processes from PowerShell:
+#    Get-Process python | Stop-Process -Force
+# ----------------------------------------------------------------
