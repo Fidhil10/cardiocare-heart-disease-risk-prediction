@@ -1,4 +1,4 @@
-# cardiocare-heart-disease-risk-prediction
+# Cardiocare-heart-disease-risk-prediction
 CardioCare is an end-to-end machine learning platform designed to predict heart disease risk using patient health data. The application combines a FastAPI-powered inference API, Streamlit-based dashboard, SQLAlchemy data persistence, and interactive visualizations to provide real-time risk assessments, prediction history, and analytical insights.
 
 The platform assists healthcare professionals, researchers, and students by transforming clinical parameters into actionable risk predictions through machine learning models.
