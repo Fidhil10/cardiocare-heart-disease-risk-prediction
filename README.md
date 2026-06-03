@@ -17,29 +17,29 @@ Scikit-learn Model Deployment
 
 # Backend
 
-Python
-FastAPI
-Uvicorn
-SQLAlchemy
+•Python
+•FastAPI
+•Uvicorn
+•SQLAlchemy
 
 # Machine Learning
 
-Scikit-learn
-Pandas
-NumPy
-Joblib
+•Scikit-learn
+•Pandas
+•NumPy
+•Joblib
 
 # Frontend
 
-Streamlit
+•Streamlit
 
 # Visualization
 
-Plotly
+•Plotly
 
 # Database
 
-SQLite
+•SQLite
 
 # Author
 Fidhil KC
